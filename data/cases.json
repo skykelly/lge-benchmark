@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-05-12T04:36:43.985214+00:00",
-    "total_cases": 51,
+    "last_updated": "2026-05-13T04:44:41.396140+00:00",
+    "total_cases": 52,
     "version": "1.2",
     "description": "LGE AX Strategy — Global AI Sales & Marketing Benchmark DB"
   },
@@ -2333,6 +2333,50 @@
       "source": "Marketing Dive, 2026",
       "url": "https://www.marketingdive.com/spons/the-gap-between-modern-and-legacy-esps-is-widening/819253/",
       "added_date": "2026-05-12",
+      "verified": false
+    },
+    {
+      "id": "FL-20260513-3a26a7",
+      "category": "1-1",
+      "company": "Foot Locker",
+      "short": "FL",
+      "color_bg": "#EEEDFE",
+      "color_text": "#3C3489",
+      "kpi_value": "N/A",
+      "kpi_label": "신규 고객 유입",
+      "title": "농구 브랜드 플랫폼 론칭",
+      "description": "Foot Locker의 농구 브랜드 플랫폼 론칭 사례",
+      "body": "Foot Locker는 'Hoops Lives Here'라는 농구 브랜드 플랫폼을 론칭하여 농구 및 스니커 문화에서의 입지를 강화하고 있습니다. 이 캠페인은 방송, 소셜 미디어, 디지털, 오프라인 및 매장 내 채널을 아우르며, NBA 방송과 다양한 소셜 플랫폼에서 진행됩니다. 이를 통해 농구 팬들과의 자연스러운 소통을 목표로 하고 있습니다.",
+      "metrics": [
+        {
+          "value": "N/A",
+          "label": "신규 고객 유입",
+          "trend": "neu"
+        },
+        {
+          "value": "N/A",
+          "label": "브랜드 인지도",
+          "trend": "pos"
+        },
+        {
+          "value": "N/A",
+          "label": "소셜 미디어 참여",
+          "trend": "pos"
+        },
+        {
+          "value": "N/A",
+          "label": "매장 방문 증가",
+          "trend": "pos"
+        }
+      ],
+      "tags": [
+        "농구",
+        "브랜드 플랫폼",
+        "마케팅"
+      ],
+      "source": "Marketing Dive, 2026",
+      "url": "https://www.marketingdive.com/news/foot-locker-debuts-year-round-basketball-brand-platform-under-new-cmo/819693/",
+      "added_date": "2026-05-13",
       "verified": false
     }
   ]
