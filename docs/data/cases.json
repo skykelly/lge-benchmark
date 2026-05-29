@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-05-27T05:17:01.847423+00:00",
-    "total_cases": 57,
+    "last_updated": "2026-05-29T05:14:32.322260+00:00",
+    "total_cases": 58,
     "version": "1.2",
     "description": "LGE AX Strategy — Global AI Sales & Marketing Benchmark DB"
   },
@@ -2597,6 +2597,50 @@
       "source": "Supply Chain Dive, 2026",
       "url": "https://www.supplychaindive.com/news/target-touts-improved-inventory-turns-in-q1/821027/",
       "added_date": "2026-05-27",
+      "verified": false
+    },
+    {
+      "id": "YT-20260529-d32940",
+      "category": "1-1",
+      "company": "YouTube",
+      "short": "YT",
+      "color_bg": "#FAEEDA",
+      "color_text": "#633806",
+      "kpi_value": "N/A",
+      "kpi_label": "투명성 향상",
+      "title": "AI 라벨 강화",
+      "description": "AI 콘텐츠의 투명성을 높인 사례",
+      "body": "YouTube는 AI로 생성된 콘텐츠에 대한 라벨을 더 눈에 띄게 배치하여 사용자들이 AI 사용 여부를 쉽게 확인할 수 있도록 개선했다. 이는 사용자에게 AI 콘텐츠에 대한 명확한 정보를 제공하여 혼란을 줄이고 신뢰성을 높이는 데 기여한다.",
+      "metrics": [
+        {
+          "value": "N/A",
+          "label": "AI 콘텐츠 인식률",
+          "trend": "neu"
+        },
+        {
+          "value": "N/A",
+          "label": "사용자 혼란 감소",
+          "trend": "pos"
+        },
+        {
+          "value": "N/A",
+          "label": "투명성 향상",
+          "trend": "pos"
+        },
+        {
+          "value": "N/A",
+          "label": "AI 태그 사용률",
+          "trend": "pos"
+        }
+      ],
+      "tags": [
+        "AI",
+        "YouTube",
+        "콘텐츠"
+      ],
+      "source": "Marketing Dive, 2026",
+      "url": "https://www.marketingdive.com/news/sociable-youtube-introduces-more-prominent-ai-labels/821378/",
+      "added_date": "2026-05-29",
       "verified": false
     }
   ]
