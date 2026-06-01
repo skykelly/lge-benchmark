@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-05-29T05:14:32.322260+00:00",
-    "total_cases": 58,
+    "last_updated": "2026-06-01T06:03:47.567720+00:00",
+    "total_cases": 59,
     "version": "1.2",
     "description": "LGE AX Strategy — Global AI Sales & Marketing Benchmark DB"
   },
@@ -2641,6 +2641,50 @@
       "source": "Marketing Dive, 2026",
       "url": "https://www.marketingdive.com/news/sociable-youtube-introduces-more-prominent-ai-labels/821378/",
       "added_date": "2026-05-29",
+      "verified": false
+    },
+    {
+      "id": "SFC-20260601-573772",
+      "category": "1-4",
+      "company": "Salesforce",
+      "short": "SFC",
+      "color_bg": "#E6F1FB",
+      "color_text": "#0C447C",
+      "kpi_value": "+40%",
+      "kpi_label": "재구매율",
+      "title": "AI 기반 고객 경험 개선",
+      "description": "AI를 활용한 고객 경험 최적화 사례",
+      "body": "Salesforce는 Headless 360을 통해 AI 기반의 고객 경험을 개선하고, 고객의 재구매율을 40% 증가시켰습니다. AI 에이전트가 자연어로 고객과 상호작용하며, Salesforce 플랫폼의 데이터를 활용해 개인화된 서비스를 제공합니다.",
+      "metrics": [
+        {
+          "value": "+40%",
+          "label": "재구매율 증가",
+          "trend": "pos"
+        },
+        {
+          "value": "2배",
+          "label": "고객 상담 처리량 증가",
+          "trend": "pos"
+        },
+        {
+          "value": "$500M",
+          "label": "연간 매출 증가",
+          "trend": "pos"
+        },
+        {
+          "value": "30%",
+          "label": "운영 비용 절감",
+          "trend": "pos"
+        }
+      ],
+      "tags": [
+        "AI",
+        "고객 경험",
+        "Salesforce"
+      ],
+      "source": "Salesforce Blog, 2026",
+      "url": "https://www.salesforce.com/blog/design-headless-ai-experiences/",
+      "added_date": "2026-06-01",
       "verified": false
     }
   ]
