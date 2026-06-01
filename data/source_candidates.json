@@ -1,0 +1,791 @@
+{
+  "generated_at": "2026-06-01T04:04:01.766394+00:00",
+  "gaps_analyzed": 25,
+  "summary": {
+    "total": 29,
+    "approved": 1,
+    "review": 14,
+    "rejected": 14
+  },
+  "candidates": [
+    {
+      "domain": "www.marketingland.com",
+      "name": "Marketing Land — AI",
+      "section_url": "https://marketingland.com/library/ai",
+      "rss_url": "null",
+      "rationale": "Marketing Land covers AI case studies that provide detailed metrics on performance improvements in marketing strategies.",
+      "expected_tags": [
+        "research",
+        "sales productivity",
+        "demand forecasting"
+      ],
+      "priority": "mid",
+      "gap_tag": "research",
+      "gap_severity": 4.0,
+      "gap_category_ids": [
+        "1-3",
+        "2-2",
+        "2-4"
+      ],
+      "validation": {
+        "section_reachable": true,
+        "rss_confirmed": true,
+        "rss_url_confirmed": "https://www.marketingland.com/feed/",
+        "articles_last_30d": 10,
+        "score": 76
+      },
+      "status": "approved"
+    },
+    {
+      "domain": "datadriveninvestor.com",
+      "name": "Data Driven Investor — AI in Marketing",
+      "section_url": "https://medium.datadriveninvestor.com/tagged/ai-in-marketing",
+      "rss_url": "https://medium.com/feed/datadriveninvestor",
+      "rationale": "Data Driven Investor features articles that often detail specific outcomes from AI implementations in marketing.",
+      "expected_tags": [
+        "마케팅",
+        "demand forecasting"
+      ],
+      "priority": "mid",
+      "gap_tag": "마케팅",
+      "gap_severity": 5.0,
+      "gap_category_ids": [
+        "2-4",
+        "1-1"
+      ],
+      "validation": {
+        "section_reachable": true,
+        "rss_confirmed": true,
+        "rss_url_confirmed": "https://medium.com/feed/datadriveninvestor",
+        "articles_last_30d": 10,
+        "score": 73
+      },
+      "status": "review"
+    },
+    {
+      "domain": "towardsdatascience.com",
+      "name": "Towards Data Science — AI Applications",
+      "section_url": "https://towardsdatascience.com/tagged/ai-applications",
+      "rss_url": "https://towardsdatascience.com/feed",
+      "rationale": "Towards Data Science publishes case studies that frequently include measurable results from AI applications in various fields, including marketing.",
+      "expected_tags": [
+        "마케팅",
+        "customer acquisition"
+      ],
+      "priority": "mid",
+      "gap_tag": "마케팅",
+      "gap_severity": 5.0,
+      "gap_category_ids": [
+        "2-4",
+        "1-1"
+      ],
+      "validation": {
+        "section_reachable": true,
+        "rss_confirmed": true,
+        "rss_url_confirmed": "https://towardsdatascience.com/feed",
+        "articles_last_30d": 20,
+        "score": 73
+      },
+      "status": "review"
+    },
+    {
+      "domain": "marketingdive.com",
+      "name": "Marketing Dive — AI",
+      "section_url": "https://www.marketingdive.com/topic/ai/",
+      "rss_url": "https://www.marketingdive.com/rss",
+      "rationale": "Marketing Dive covers AI case studies with detailed performance metrics, focusing on practical applications in marketing.",
+      "expected_tags": [
+        "FMCG",
+        "marketing cost reduction",
+        "brand risk / VOC"
+      ],
+      "priority": "high",
+      "gap_tag": "FMCG",
+      "gap_severity": 9.0,
+      "gap_category_ids": [
+        "1-1",
+        "1-3",
+        "2-1",
+        "2-5"
+      ],
+      "validation": {
+        "section_reachable": false,
+        "rss_confirmed": true,
+        "rss_url_confirmed": "https://marketingdive.com/feeds/news/",
+        "articles_last_30d": 10,
+        "score": 64
+      },
+      "status": "review"
+    },
+    {
+      "domain": "zdnet.com",
+      "name": "ZDNet — AI",
+      "section_url": "https://www.zdnet.com/topic/ai/",
+      "rss_url": "https://www.zdnet.com/topic/ai/feed/",
+      "rationale": "ZDNet features case studies that highlight measurable outcomes from AI implementations in various business sectors, including sales and marketing.",
+      "expected_tags": [
+        "AI",
+        "demand forecasting",
+        "customer service automation"
+      ],
+      "priority": "mid",
+      "gap_tag": "AI",
+      "gap_severity": 11.0,
+      "gap_category_ids": [
+        "1-1",
+        "2-4",
+        "2-3"
+      ],
+      "validation": {
+        "section_reachable": false,
+        "rss_confirmed": true,
+        "rss_url_confirmed": "https://zdnet.com/rss.xml",
+        "articles_last_30d": 20,
+        "score": 61
+      },
+      "status": "review"
+    },
+    {
+      "domain": "businessinsider.com",
+      "name": "Business Insider — AI in Business",
+      "section_url": "https://www.businessinsider.com/category/ai-in-business",
+      "rss_url": "https://www.businessinsider.com/rss",
+      "rationale": "Business Insider regularly features case studies that highlight specific outcomes from AI implementations in various sectors, including FMCG.",
+      "expected_tags": [
+        "FMCG",
+        "customer acquisition",
+        "marketing cost reduction"
+      ],
+      "priority": "mid",
+      "gap_tag": "FMCG",
+      "gap_severity": 9.0,
+      "gap_category_ids": [
+        "1-1",
+        "1-3",
+        "2-1",
+        "2-5"
+      ],
+      "validation": {
+        "section_reachable": false,
+        "rss_confirmed": true,
+        "rss_url_confirmed": "https://www.businessinsider.com/rss",
+        "articles_last_30d": 20,
+        "score": 61
+      },
+      "status": "review"
+    },
+    {
+      "domain": "www.martechseries.com",
+      "name": "MarTech Series — AI & Automation",
+      "section_url": "https://martechseries.com/category/ai-automation/",
+      "rss_url": "https://martechseries.com/feed/",
+      "rationale": "MarTech Series frequently publishes case studies with specific metrics on AI applications in marketing and customer experience.",
+      "expected_tags": [
+        "churn_prediction",
+        "retention"
+      ],
+      "priority": "high",
+      "gap_tag": "churn_prediction",
+      "gap_severity": 3.0,
+      "gap_category_ids": [
+        "1-4",
+        "2-5"
+      ],
+      "validation": {
+        "section_reachable": false,
+        "rss_confirmed": true,
+        "rss_url_confirmed": "https://martechseries.com/feed/",
+        "articles_last_30d": 10,
+        "score": 61
+      },
+      "status": "review"
+    },
+    {
+      "domain": "hubspot.com",
+      "name": "HubSpot — AI Marketing",
+      "section_url": "https://blog.hubspot.com/marketing/topic/ai-marketing",
+      "rss_url": "https://blog.hubspot.com/marketing/rss.xml",
+      "rationale": "HubSpot's blog features numerous case studies that include quantifiable outcomes from AI implementations in marketing.",
+      "expected_tags": [
+        "광고",
+        "customer acquisition"
+      ],
+      "priority": "high",
+      "gap_tag": "광고",
+      "gap_severity": 5.0,
+      "gap_category_ids": [
+        "1-1"
+      ],
+      "validation": {
+        "section_reachable": false,
+        "rss_confirmed": true,
+        "rss_url_confirmed": "https://blog.hubspot.com/marketing/rss.xml",
+        "articles_last_30d": 15,
+        "score": 58
+      },
+      "status": "review"
+    },
+    {
+      "domain": "customerthink.com",
+      "name": "CustomerThink — AI in Sales & Marketing",
+      "section_url": "https://customerthink.com/category/ai-in-sales-marketing/",
+      "rss_url": "https://customerthink.com/feed/ or null",
+      "rationale": "CustomerThink regularly features case studies that include specific metrics related to AI applications in sales and marketing.",
+      "expected_tags": [
+        "telecom",
+        "customer service automation"
+      ],
+      "priority": "high",
+      "gap_tag": "telecom",
+      "gap_severity": 4.0,
+      "gap_category_ids": [
+        "1-4",
+        "1-5",
+        "2-2",
+        "2-3"
+      ],
+      "validation": {
+        "section_reachable": false,
+        "rss_confirmed": true,
+        "rss_url_confirmed": "https://customerthink.com/feed/",
+        "articles_last_30d": 20,
+        "score": 58
+      },
+      "status": "review"
+    },
+    {
+      "domain": "www.digitalcommerce360.com",
+      "name": "Digital Commerce 360 — AI",
+      "section_url": "https://www.digitalcommerce360.com/category/ai/",
+      "rss_url": "https://www.digitalcommerce360.com/feed/",
+      "rationale": "Digital Commerce 360 features detailed case studies with quantifiable results from AI implementations in the retail sector.",
+      "expected_tags": [
+        "retail",
+        "demand forecasting / operations"
+      ],
+      "priority": "high",
+      "gap_tag": "retail",
+      "gap_severity": 3.0,
+      "gap_category_ids": [
+        "1-1",
+        "1-3",
+        "2-4"
+      ],
+      "validation": {
+        "section_reachable": false,
+        "rss_confirmed": true,
+        "rss_url_confirmed": "https://www.digitalcommerce360.com/feed/",
+        "articles_last_30d": 10,
+        "score": 58
+      },
+      "status": "review"
+    },
+    {
+      "domain": "adweek.com",
+      "name": "Adweek — AI in Marketing",
+      "section_url": "https://www.adweek.com/category/ai-in-marketing/",
+      "rss_url": "https://www.adweek.com/feed/",
+      "rationale": "Adweek features case studies that include measurable outcomes from AI implementations in marketing strategies.",
+      "expected_tags": [
+        "beauty",
+        "customer acquisition"
+      ],
+      "priority": "mid",
+      "gap_tag": "beauty",
+      "gap_severity": 2.0,
+      "gap_category_ids": [
+        "1-1"
+      ],
+      "validation": {
+        "section_reachable": false,
+        "rss_confirmed": true,
+        "rss_url_confirmed": "https://www.adweek.com/feed/",
+        "articles_last_30d": 10,
+        "score": 58
+      },
+      "status": "review"
+    },
+    {
+      "domain": "venturebeat.com",
+      "name": "VentureBeat — AI",
+      "section_url": "https://venturebeat.com/category/ai/",
+      "rss_url": "https://venturebeat.com/feed/",
+      "rationale": "VentureBeat covers AI case studies with detailed metrics on performance improvements and ROI in sales and marketing contexts.",
+      "expected_tags": [
+        "AI",
+        "customer acquisition",
+        "demand forecasting"
+      ],
+      "priority": "high",
+      "gap_tag": "AI",
+      "gap_severity": 11.0,
+      "gap_category_ids": [
+        "1-1",
+        "2-4",
+        "2-3"
+      ],
+      "validation": {
+        "section_reachable": false,
+        "rss_confirmed": true,
+        "rss_url_confirmed": "https://venturebeat.com/feed/",
+        "articles_last_30d": 7,
+        "score": 57
+      },
+      "status": "review"
+    },
+    {
+      "domain": "econsultancy.com",
+      "name": "Econsultancy — AI and Marketing",
+      "section_url": "https://econsultancy.com/blog/topics/ai-and-marketing/",
+      "rss_url": "https://econsultancy.com/feed/",
+      "rationale": "Econsultancy provides detailed case studies with specific metrics on the impact of AI in sales and marketing.",
+      "expected_tags": [
+        "광고",
+        "customer acquisition"
+      ],
+      "priority": "mid",
+      "gap_tag": "광고",
+      "gap_severity": 5.0,
+      "gap_category_ids": [
+        "1-1"
+      ],
+      "validation": {
+        "section_reachable": true,
+        "rss_confirmed": true,
+        "rss_url_confirmed": "https://econsultancy.com/feed/",
+        "articles_last_30d": 3,
+        "score": 57
+      },
+      "status": "review"
+    },
+    {
+      "domain": "www.techradar.com",
+      "name": "TechRadar — AI in Business",
+      "section_url": "https://www.techradar.com/news/ai-in-business",
+      "rss_url": "https://www.techradar.com/rss",
+      "rationale": "TechRadar covers various AI applications in business, including case studies that provide specific metrics and outcomes.",
+      "expected_tags": [
+        "e-commerce",
+        "sales conversion"
+      ],
+      "priority": "mid",
+      "gap_tag": "e-commerce",
+      "gap_severity": 2.0,
+      "gap_category_ids": [
+        "1-2"
+      ],
+      "validation": {
+        "section_reachable": false,
+        "rss_confirmed": true,
+        "rss_url_confirmed": "https://www.techradar.com/rss",
+        "articles_last_30d": 50,
+        "score": 55
+      },
+      "status": "review"
+    },
+    {
+      "domain": "www.techcrunch.com",
+      "name": "TechCrunch — AI",
+      "section_url": "https://techcrunch.com/tag/ai/",
+      "rss_url": "https://feeds.feedburner.com/TechCrunch/",
+      "rationale": "TechCrunch publishes articles that often highlight specific outcomes from AI implementations in various sectors, including sales and marketing.",
+      "expected_tags": [
+        "research",
+        "upsell",
+        "average order value"
+      ],
+      "priority": "mid",
+      "gap_tag": "research",
+      "gap_severity": 4.0,
+      "gap_category_ids": [
+        "1-3",
+        "2-2",
+        "2-4"
+      ],
+      "validation": {
+        "section_reachable": true,
+        "rss_confirmed": true,
+        "rss_url_confirmed": "https://feeds.feedburner.com/TechCrunch/",
+        "articles_last_30d": 0,
+        "score": 51
+      },
+      "status": "review"
+    },
+    {
+      "domain": "marketingai.com",
+      "name": "Marketing AI Institute — Case Studies",
+      "section_url": "https://www.marketingai.com/case-studies",
+      "rss_url": "https://www.marketingai.com/feed/",
+      "rationale": "Marketing AI Institute regularly publishes detailed case studies with specific metrics on AI applications in marketing.",
+      "expected_tags": [
+        "beauty",
+        "customer acquisition"
+      ],
+      "priority": "high",
+      "gap_tag": "beauty",
+      "gap_severity": 2.0,
+      "gap_category_ids": [
+        "1-1"
+      ],
+      "validation": {
+        "section_reachable": true,
+        "rss_confirmed": true,
+        "rss_url_confirmed": "https://www.marketingai.com/feed/",
+        "articles_last_30d": 0,
+        "score": 48
+      },
+      "status": "rejected"
+    },
+    {
+      "domain": "www.cio.com",
+      "name": "CIO — AI in Business",
+      "section_url": "https://www.cio.com/category/ai-in-business/",
+      "rss_url": "https://www.cio.com/feed/",
+      "rationale": "CIO regularly features case studies that include specific metrics on the impact of AI in sales and marketing.",
+      "expected_tags": [
+        "research",
+        "sales productivity",
+        "demand forecasting"
+      ],
+      "priority": "high",
+      "gap_tag": "research",
+      "gap_severity": 4.0,
+      "gap_category_ids": [
+        "1-3",
+        "2-2",
+        "2-4"
+      ],
+      "validation": {
+        "section_reachable": false,
+        "rss_confirmed": true,
+        "rss_url_confirmed": "https://www.cio.com/feed/",
+        "articles_last_30d": 0,
+        "score": 36
+      },
+      "status": "rejected"
+    },
+    {
+      "domain": "www.smartbrief.com",
+      "name": "SmartBrief — AI in Marketing",
+      "section_url": "https://www.smartbrief.com/industry/marketing/ai-marketing",
+      "rss_url": "null",
+      "rationale": "SmartBrief curates a variety of case studies that include specific metrics related to AI in marketing, ensuring relevance and quantifiable outcomes.",
+      "expected_tags": [
+        "churn_prediction",
+        "brand risk"
+      ],
+      "priority": "mid",
+      "gap_tag": "churn_prediction",
+      "gap_severity": 3.0,
+      "gap_category_ids": [
+        "1-4",
+        "2-5"
+      ],
+      "validation": {
+        "section_reachable": false,
+        "rss_confirmed": true,
+        "rss_url_confirmed": "https://www.smartbrief.com/feed/",
+        "articles_last_30d": 0,
+        "score": 36
+      },
+      "status": "rejected"
+    },
+    {
+      "domain": "martechpod.com",
+      "name": "MarTech Podcast — Case Studies",
+      "section_url": "https://martechpod.com/category/case-studies/",
+      "rss_url": "https://martechpod.com/feed/",
+      "rationale": "The MarTech Podcast shares case studies with quantifiable results from AI-driven marketing initiatives.",
+      "expected_tags": [
+        "beauty",
+        "customer acquisition"
+      ],
+      "priority": "mid",
+      "gap_tag": "beauty",
+      "gap_severity": 2.0,
+      "gap_category_ids": [
+        "1-1"
+      ],
+      "validation": {
+        "section_reachable": false,
+        "rss_confirmed": true,
+        "rss_url_confirmed": "https://martechpod.com/feed/",
+        "articles_last_30d": 0,
+        "score": 33
+      },
+      "status": "rejected"
+    },
+    {
+      "domain": "forbes.com",
+      "name": "Forbes — AI",
+      "section_url": "https://www.forbes.com/ai/",
+      "rss_url": "https://www.forbes.com/ai/feed/",
+      "rationale": "Forbes regularly publishes case studies and articles that include specific metrics related to AI applications in sales and marketing.",
+      "expected_tags": [
+        "AI",
+        "customer acquisition",
+        "customer service automation"
+      ],
+      "priority": "high",
+      "gap_tag": "AI",
+      "gap_severity": 11.0,
+      "gap_category_ids": [
+        "1-1",
+        "2-4",
+        "2-3"
+      ],
+      "validation": {
+        "section_reachable": true,
+        "rss_confirmed": false,
+        "rss_url_confirmed": null,
+        "articles_last_30d": 0,
+        "score": 21
+      },
+      "status": "rejected"
+    },
+    {
+      "domain": "www.cmo.com",
+      "name": "CMO — AI & Analytics",
+      "section_url": "https://www.cmo.com.au/tag/ai-analytics/",
+      "rss_url": "null",
+      "rationale": "CMO regularly features case studies that highlight measurable outcomes from AI implementations in marketing strategies.",
+      "expected_tags": [
+        "churn_prediction",
+        "LTV"
+      ],
+      "priority": "mid",
+      "gap_tag": "churn_prediction",
+      "gap_severity": 3.0,
+      "gap_category_ids": [
+        "1-4",
+        "2-5"
+      ],
+      "validation": {
+        "section_reachable": true,
+        "rss_confirmed": false,
+        "rss_url_confirmed": null,
+        "articles_last_30d": 0,
+        "score": 21
+      },
+      "status": "rejected"
+    },
+    {
+      "domain": "marketingprofs.com",
+      "name": "MarketingProfs — AI in Marketing",
+      "section_url": "https://www.marketingprofs.com/topic/all/ai-in-marketing",
+      "rss_url": "https://www.marketingprofs.com/rss/ai-in-marketing.xml",
+      "rationale": "MarketingProfs regularly publishes case studies with specific metrics related to AI applications in marketing.",
+      "expected_tags": [
+        "광고",
+        "customer acquisition"
+      ],
+      "priority": "high",
+      "gap_tag": "광고",
+      "gap_severity": 5.0,
+      "gap_category_ids": [
+        "1-1"
+      ],
+      "validation": {
+        "section_reachable": true,
+        "rss_confirmed": false,
+        "rss_url_confirmed": null,
+        "articles_last_30d": 0,
+        "score": 18
+      },
+      "status": "rejected"
+    },
+    {
+      "domain": "adage.com",
+      "name": "Ad Age — AI Marketing",
+      "section_url": "https://adage.com/section/ai-marketing/1001",
+      "rss_url": "https://adage.com/rss",
+      "rationale": "Ad Age frequently publishes case studies that detail specific metrics and outcomes related to AI in marketing.",
+      "expected_tags": [
+        "FMCG",
+        "customer acquisition",
+        "upsell / average order value"
+      ],
+      "priority": "high",
+      "gap_tag": "FMCG",
+      "gap_severity": 9.0,
+      "gap_category_ids": [
+        "1-1",
+        "1-3",
+        "2-1",
+        "2-5"
+      ],
+      "validation": {
+        "section_reachable": false,
+        "rss_confirmed": false,
+        "rss_url_confirmed": null,
+        "articles_last_30d": 0,
+        "score": 9
+      },
+      "status": "rejected"
+    },
+    {
+      "domain": "www.retaildive.com",
+      "name": "Retail Dive — AI",
+      "section_url": "https://www.retaildive.com/topic/ai/",
+      "rss_url": "https://www.retaildive.com/rss/",
+      "rationale": "Retail Dive regularly publishes case studies with specific outcome metrics related to AI in retail sales and marketing.",
+      "expected_tags": [
+        "retail",
+        "customer acquisition",
+        "upsell / average order value"
+      ],
+      "priority": "high",
+      "gap_tag": "retail",
+      "gap_severity": 3.0,
+      "gap_category_ids": [
+        "1-1",
+        "1-3",
+        "2-4"
+      ],
+      "validation": {
+        "section_reachable": false,
+        "rss_confirmed": false,
+        "rss_url_confirmed": null,
+        "articles_last_30d": 0,
+        "score": 9
+      },
+      "status": "rejected"
+    },
+    {
+      "domain": "www.emarketer.com",
+      "name": "eMarketer — AI in Retail",
+      "section_url": "https://www.emarketer.com/topics/ai-in-retail",
+      "rss_url": null,
+      "rationale": "eMarketer provides insights and case studies with specific metrics on AI applications in retail marketing and sales.",
+      "expected_tags": [
+        "retail",
+        "customer acquisition",
+        "upsell / average order value"
+      ],
+      "priority": "mid",
+      "gap_tag": "retail",
+      "gap_severity": 3.0,
+      "gap_category_ids": [
+        "1-1",
+        "1-3",
+        "2-4"
+      ],
+      "validation": {
+        "section_reachable": false,
+        "rss_confirmed": false,
+        "rss_url_confirmed": null,
+        "articles_last_30d": 0,
+        "score": 9
+      },
+      "status": "rejected"
+    },
+    {
+      "domain": "marketingaiinstitute.com",
+      "name": "Marketing AI Institute — Case Studies",
+      "section_url": "https://marketingaiinstitute.com/case-studies",
+      "rss_url": "https://marketingaiinstitute.com/feed/",
+      "rationale": "Marketing AI Institute regularly publishes case studies that include specific metrics on the impact of AI in marketing.",
+      "expected_tags": [
+        "마케팅",
+        "customer acquisition"
+      ],
+      "priority": "high",
+      "gap_tag": "마케팅",
+      "gap_severity": 5.0,
+      "gap_category_ids": [
+        "2-4",
+        "1-1"
+      ],
+      "validation": {
+        "section_reachable": false,
+        "rss_confirmed": false,
+        "rss_url_confirmed": null,
+        "articles_last_30d": 0,
+        "score": 3
+      },
+      "status": "rejected"
+    },
+    {
+      "domain": "g2.com",
+      "name": "G2 — Case Studies",
+      "section_url": "https://www.g2.com/categories/case-studies",
+      "rss_url": null,
+      "rationale": "G2 publishes detailed case studies with quantifiable outcomes from various companies, including those in telecom.",
+      "expected_tags": [
+        "telecom",
+        "sales productivity"
+      ],
+      "priority": "mid",
+      "gap_tag": "telecom",
+      "gap_severity": 4.0,
+      "gap_category_ids": [
+        "1-4",
+        "1-5",
+        "2-2",
+        "2-3"
+      ],
+      "validation": {
+        "section_reachable": false,
+        "rss_confirmed": false,
+        "rss_url_confirmed": null,
+        "articles_last_30d": 0,
+        "score": 3
+      },
+      "status": "rejected"
+    },
+    {
+      "domain": "aiinbusiness.com",
+      "name": "AI in Business — Case Studies",
+      "section_url": "https://www.aiinbusiness.com/case-studies/",
+      "rss_url": null,
+      "rationale": "AI in Business provides case studies that focus on measurable results from AI implementations in sales and marketing.",
+      "expected_tags": [
+        "telecom",
+        "new revenue model"
+      ],
+      "priority": "mid",
+      "gap_tag": "telecom",
+      "gap_severity": 4.0,
+      "gap_category_ids": [
+        "1-4",
+        "1-5",
+        "2-2",
+        "2-3"
+      ],
+      "validation": {
+        "section_reachable": false,
+        "rss_confirmed": false,
+        "rss_url_confirmed": null,
+        "articles_last_30d": 0,
+        "score": 3
+      },
+      "status": "rejected"
+    },
+    {
+      "domain": "www.prnewswire.com",
+      "name": "PR Newswire — AI News",
+      "section_url": "https://www.prnewswire.com/news-releases/ai/",
+      "rss_url": "https://www.prnewswire.com/rss/ai.xml",
+      "rationale": "PR Newswire publishes press releases that often include detailed case studies with quantifiable outcomes from AI implementations.",
+      "expected_tags": [
+        "e-commerce",
+        "sales conversion"
+      ],
+      "priority": "mid",
+      "gap_tag": "e-commerce",
+      "gap_severity": 2.0,
+      "gap_category_ids": [
+        "1-2"
+      ],
+      "validation": {
+        "section_reachable": false,
+        "rss_confirmed": false,
+        "rss_url_confirmed": null,
+        "articles_last_30d": 0,
+        "score": 0
+      },
+      "status": "rejected"
+    }
+  ],
+  "review_instructions": "Candidates with status='approved' will be auto-added if --no-auto-approve is not set. Review 'review' candidates manually and change status to 'approved' then re-run with --apply-reviewed, or add them to sources.json directly."
+}
