@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-06-01T06:03:47.567720+00:00",
-    "total_cases": 59,
+    "last_updated": "2026-06-03T06:05:04.902243+00:00",
+    "total_cases": 62,
     "version": "1.2",
     "description": "LGE AX Strategy — Global AI Sales & Marketing Benchmark DB"
   },
@@ -2685,6 +2685,138 @@
       "source": "Salesforce Blog, 2026",
       "url": "https://www.salesforce.com/blog/design-headless-ai-experiences/",
       "added_date": "2026-06-01",
+      "verified": false
+    },
+    {
+      "id": "SFC-20260603-39bdb4",
+      "category": "1-2",
+      "company": "Salesforce",
+      "short": "SFC",
+      "color_bg": "#FAEEDA",
+      "color_text": "#633806",
+      "kpi_value": "5배",
+      "kpi_label": "처리 속도",
+      "title": "AI 팀원으로 영업 효율화",
+      "description": "AI가 영업 제안서를 신속하게 작성합니다.",
+      "body": "Salesforce의 Agentforce Coworker는 고객의 지원 이력과 계정 데이터를 분석하여 맞춤형 갱신 제안서를 몇 분 안에 작성합니다. 이를 통해 영업팀은 시간을 절약하고, 고객 요구에 신속하게 대응할 수 있습니다.",
+      "metrics": [
+        {
+          "value": "5배",
+          "label": "처리 속도 향상",
+          "trend": "pos"
+        },
+        {
+          "value": "40%",
+          "label": "업무 효율성 증가",
+          "trend": "pos"
+        },
+        {
+          "value": "30%",
+          "label": "고객 만족도 향상",
+          "trend": "pos"
+        },
+        {
+          "value": "20%",
+          "label": "이탈 방지율 증가",
+          "trend": "pos"
+        }
+      ],
+      "tags": [
+        "AI",
+        "영업",
+        "효율화"
+      ],
+      "source": "Salesforce Blog, 2023",
+      "url": "https://www.salesforce.com/blog/agentforce-coworker-salesforce-ai-teammate/",
+      "added_date": "2026-06-03",
+      "verified": false
+    },
+    {
+      "id": "CP-20260603-9a794c",
+      "category": "1-1",
+      "company": "ClassPass",
+      "short": "CP",
+      "color_bg": "#FBEAF0",
+      "color_text": "#72243E",
+      "kpi_value": "+36%",
+      "kpi_label": "예약 증가율",
+      "title": "파트너 성장 위한 투자",
+      "description": "ClassPass가 파트너 성장을 위해 마케팅에 투자.",
+      "body": "ClassPass는 2025년에 5천만 달러를 마케팅에 투자하여 파트너 스튜디오의 성장을 촉진했다. 이 투자로 피트니스 및 웰니스 예약이 각각 36%와 37% 증가했다. 다양한 디지털 마케팅 채널을 활용하여 신규 고객을 유치하고 파트너 비즈니스의 경쟁력을 강화했다.",
+      "metrics": [
+        {
+          "value": "+36%",
+          "label": "예약 증가율",
+          "trend": "pos"
+        },
+        {
+          "value": "+37%",
+          "label": "웰니스 예약 증가율",
+          "trend": "pos"
+        },
+        {
+          "value": "$50M",
+          "label": "마케팅 투자액",
+          "trend": "neu"
+        },
+        {
+          "value": "400+",
+          "label": "개발 중 스튜디오 수",
+          "trend": "pos"
+        }
+      ],
+      "tags": [
+        "마케팅",
+        "파트너 성장",
+        "피트니스"
+      ],
+      "source": "Marketing Dive, 2026",
+      "url": "https://www.marketingdive.com/news/why-classpass-invested-50m-in-marketing-to-supercharge-partner-growth/821612/",
+      "added_date": "2026-06-03",
+      "verified": false
+    },
+    {
+      "id": "AAP-20260603-aef745",
+      "category": "1-1",
+      "company": "Advance Auto Parts",
+      "short": "AAP",
+      "color_bg": "#FEF3E2",
+      "color_text": "#6B3A00",
+      "kpi_value": "75,000 - 85,000",
+      "kpi_label": "SKU 수",
+      "title": "신속한 부품 제공",
+      "description": "고객 근처에 부품을 배치하여 서비스 속도 향상",
+      "body": "Advance Auto Parts는 시장 허브를 통해 고객 근처에 약 75,000 - 85,000개의 SKU를 배치하여 같은 날 부품 가용성을 높이고 있습니다. 이를 통해 매장 내 부품 제공 속도를 개선하고 있습니다.",
+      "metrics": [
+        {
+          "value": "75,000 - 85,000",
+          "label": "SKU 수",
+          "trend": "pos"
+        },
+        {
+          "value": "60 - 90",
+          "label": "지원 매장 수",
+          "trend": "pos"
+        },
+        {
+          "value": "16",
+          "label": "현재 배급 센터 수",
+          "trend": "neu"
+        },
+        {
+          "value": "38",
+          "label": "이전 배급 센터 수",
+          "trend": "neg"
+        }
+      ],
+      "tags": [
+        "물류",
+        "AI",
+        "부품"
+      ],
+      "source": "Supply Chain Dive, 2026",
+      "url": "https://www.supplychaindive.com/news/advance-auto-parts-nears-finish-line-on-distribution-center-consolidation-s/821377/",
+      "added_date": "2026-06-03",
       "verified": false
     }
   ]
