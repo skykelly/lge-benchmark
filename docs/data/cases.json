@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-06-03T06:05:04.902243+00:00",
-    "total_cases": 62,
+    "last_updated": "2026-06-10T05:20:02.403740+00:00",
+    "total_cases": 63,
     "version": "1.2",
     "description": "LGE AX Strategy — Global AI Sales & Marketing Benchmark DB"
   },
@@ -2817,6 +2817,50 @@
       "source": "Supply Chain Dive, 2026",
       "url": "https://www.supplychaindive.com/news/advance-auto-parts-nears-finish-line-on-distribution-center-consolidation-s/821377/",
       "added_date": "2026-06-03",
+      "verified": false
+    },
+    {
+      "id": "GRT-20260610-e4b071",
+      "category": "1-1",
+      "company": "Gartner",
+      "short": "GRT",
+      "color_bg": "#E1F5EE",
+      "color_text": "#085041",
+      "kpi_value": "+10%",
+      "kpi_label": "미디어 지출 증가",
+      "title": "AI로 고객 획득 가속화",
+      "description": "AI 도입으로 고객 획득을 위한 미디어 지출이 증가했다.",
+      "body": "Gartner의 조사에 따르면 2026년 미디어 지출의 62.6%가 고객 전환과 인식에 집중되고 있으며, 이는 2024년 대비 10% 증가한 수치이다. AI 솔루션을 통해 최적화와 개인화를 추구하는 마케터들이 늘어나고 있으며, 이는 신규 고객 획득에 긍정적인 영향을 미치고 있다.",
+      "metrics": [
+        {
+          "value": "+10%",
+          "label": "미디어 지출 증가",
+          "trend": "pos"
+        },
+        {
+          "value": "62.6%",
+          "label": "고객 전환 지출 비율",
+          "trend": "pos"
+        },
+        {
+          "value": "24.5%",
+          "label": "인건비 비율",
+          "trend": "pos"
+        },
+        {
+          "value": "15%",
+          "label": "충성도 지출 비율",
+          "trend": "neg"
+        }
+      ],
+      "tags": [
+        "AI",
+        "고객획득",
+        "마케팅"
+      ],
+      "source": "Marketing Dive, 2026",
+      "url": "https://www.marketingdive.com/news/customer-acquisition-media-spend-accelerates-amid-rush-to-ai-gartner/822274/",
+      "added_date": "2026-06-10",
       "verified": false
     }
   ]
