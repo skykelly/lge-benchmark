@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-06-12T05:50:13.733432+00:00",
-    "total_cases": 65,
+    "last_updated": "2026-06-16T06:34:10.724880+00:00",
+    "total_cases": 66,
     "version": "1.2",
     "description": "LGE AX Strategy — Global AI Sales & Marketing Benchmark DB"
   },
@@ -2949,6 +2949,50 @@
       "source": "Marketing Dive, 2026",
       "url": "https://www.marketingdive.com/news/how-gstv-steps-up-audience-targeting-with-stagwells-agentic-system/822396/",
       "added_date": "2026-06-12",
+      "verified": false
+    },
+    {
+      "id": "EA-20260616-efbe72",
+      "category": "1-1",
+      "company": "Electronic Arts",
+      "short": "EA",
+      "color_bg": "#FBEAF0",
+      "color_text": "#72243E",
+      "kpi_value": "120M",
+      "kpi_label": "월간 사용자 수",
+      "title": "EA 광고 플랫폼 런칭",
+      "description": "EA가 광고 플랫폼을 통해 신규 고객을 유치한다.",
+      "body": "Electronic Arts는 EA Advertising 플랫폼을 런칭하여 광고주가 게임 내에서 마케팅 활동을 할 수 있도록 지원하고 있습니다. 이 플랫폼은 브랜드가 캠페인을 생성하고 측정할 수 있는 통합된 환경을 제공하며, 매달 1억 2천만 명의 게이머에게 도달할 수 있는 기회를 제공합니다.",
+      "metrics": [
+        {
+          "value": "120M",
+          "label": "월간 사용자 수",
+          "trend": "pos"
+        },
+        {
+          "value": "N/A",
+          "label": "캠페인 통합 수",
+          "trend": "neu"
+        },
+        {
+          "value": "N/A",
+          "label": "파트너 브랜드 수",
+          "trend": "pos"
+        },
+        {
+          "value": "N/A",
+          "label": "광고 노출 수",
+          "trend": "pos"
+        }
+      ],
+      "tags": [
+        "광고",
+        "게임",
+        "AI"
+      ],
+      "source": "Marketing Dive, 2026",
+      "url": "https://www.marketingdive.com/news/ea-rolls-out-advertising-platform-with-enhanced-offerings-for-brands/822833/",
+      "added_date": "2026-06-16",
       "verified": false
     }
   ]
