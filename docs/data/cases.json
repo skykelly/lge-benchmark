@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-06-16T06:34:10.724880+00:00",
-    "total_cases": 66,
+    "last_updated": "2026-06-17T06:13:16.068790+00:00",
+    "total_cases": 67,
     "version": "1.2",
     "description": "LGE AX Strategy — Global AI Sales & Marketing Benchmark DB"
   },
@@ -2993,6 +2993,50 @@
       "source": "Marketing Dive, 2026",
       "url": "https://www.marketingdive.com/news/ea-rolls-out-advertising-platform-with-enhanced-offerings-for-brands/822833/",
       "added_date": "2026-06-16",
+      "verified": false
+    },
+    {
+      "id": "CCH-20260617-9c714b",
+      "category": "1-1",
+      "company": "Coach",
+      "short": "CCH",
+      "color_bg": "#FBEAF0",
+      "color_text": "#72243E",
+      "kpi_value": "N/A",
+      "kpi_label": "신규 고객 유입",
+      "title": "Gen Z와의 협업 마케팅",
+      "description": "Coach가 Gen Z와 협업하여 신규 고객을 유치하는 플랫폼을 런칭.",
+      "body": "Coach는 Gen Z와의 협업을 통해 &Coach라는 새로운 스토리텔링 플랫폼을 런칭했다. 이 플랫폼은 유명 인사와 Gen Z 크리에이터들이 참여하여 개인적이고 비필터링된 순간을 강조하며, 소셜 미디어를 통해 새로운 고객층을 유치하고 있다. 이를 통해 Coach는 고정된 럭셔리 마케팅 내러티브에서 벗어나 Gen Z의 선호에 맞춘 마케팅 전략을 강화하고 있다.",
+      "metrics": [
+        {
+          "value": "N/A",
+          "label": "신규 고객 수",
+          "trend": "neu"
+        },
+        {
+          "value": "N/A",
+          "label": "소셜 미디어 팔로워 수",
+          "trend": "pos"
+        },
+        {
+          "value": "N/A",
+          "label": "브랜드 인지도",
+          "trend": "pos"
+        },
+        {
+          "value": "N/A",
+          "label": "고객 참여도",
+          "trend": "pos"
+        }
+      ],
+      "tags": [
+        "Gen Z",
+        "마케팅",
+        "협업"
+      ],
+      "source": "Marketing Dive, 2026",
+      "url": "https://www.marketingdive.com/news/coach-unites-celebrities-gen-z-storytelling-under-new-brand-platform/822999/",
+      "added_date": "2026-06-17",
       "verified": false
     }
   ]
