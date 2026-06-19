@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-06-17T06:13:16.068790+00:00",
-    "total_cases": 67,
+    "last_updated": "2026-06-19T06:21:25.872592+00:00",
+    "total_cases": 68,
     "version": "1.2",
     "description": "LGE AX Strategy — Global AI Sales & Marketing Benchmark DB"
   },
@@ -3037,6 +3037,50 @@
       "source": "Marketing Dive, 2026",
       "url": "https://www.marketingdive.com/news/coach-unites-celebrities-gen-z-storytelling-under-new-brand-platform/822999/",
       "added_date": "2026-06-17",
+      "verified": false
+    },
+    {
+      "id": "RDT-20260619-41fb4c",
+      "category": "1-1",
+      "company": "Reddit",
+      "short": "RDT",
+      "color_bg": "#FBEAF0",
+      "color_text": "#72243E",
+      "kpi_value": "77%",
+      "kpi_label": "구매 결정 검증",
+      "title": "레딧 사용자 구매 행동",
+      "description": "레딧 커뮤니티가 구매 결정에 미치는 영향.",
+      "body": "레딧 사용자의 77%가 구매 결정을 검증하기 위해 두 개 이상의 커뮤니티를 방문한다고 응답했습니다. 이는 레딧이 전통적인 마케팅 접근 방식과는 다르게, 사용자가 특정한 정보를 찾기 위해 커뮤니티를 탐색한다는 것을 보여줍니다. 레딧에서의 직접적인 브랜드 응답은 신뢰도를 높이는 데 기여합니다.",
+      "metrics": [
+        {
+          "value": "77%",
+          "label": "구매 결정 검증 비율",
+          "trend": "pos"
+        },
+        {
+          "value": "63%",
+          "label": "신뢰도 증가 비율",
+          "trend": "pos"
+        },
+        {
+          "value": "58%",
+          "label": "브랜드 신뢰도 증가 비율",
+          "trend": "pos"
+        },
+        {
+          "value": "493M",
+          "label": "주간 방문자 수",
+          "trend": "pos"
+        }
+      ],
+      "tags": [
+        "레딧",
+        "구매 행동",
+        "소셜 미디어"
+      ],
+      "source": "Marketing Dive, 2026",
+      "url": "https://www.marketingdive.com/news/sociable-reddit-study-highlights-user-purchase-behavior/823273/",
+      "added_date": "2026-06-19",
       "verified": false
     }
   ]
