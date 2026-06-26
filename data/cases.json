@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-06-19T06:21:25.872592+00:00",
-    "total_cases": 68,
+    "last_updated": "2026-06-26T05:09:44.907774+00:00",
+    "total_cases": 70,
     "version": "1.2",
     "description": "LGE AX Strategy — Global AI Sales & Marketing Benchmark DB"
   },
@@ -3081,6 +3081,94 @@
       "source": "Marketing Dive, 2026",
       "url": "https://www.marketingdive.com/news/sociable-reddit-study-highlights-user-purchase-behavior/823273/",
       "added_date": "2026-06-19",
+      "verified": false
+    },
+    {
+      "id": "SFC-20260626-ad01d4",
+      "category": "2-4",
+      "company": "Salesforce",
+      "short": "SFC",
+      "color_bg": "#FEF3E2",
+      "color_text": "#6B3A00",
+      "kpi_value": "+40%",
+      "kpi_label": "협업 효율성",
+      "title": "AI 기반 협업 강화",
+      "description": "AI를 통한 외부 협업과 실행력 강화 사례.",
+      "body": "Salesforce의 Agentforce 플랫폼은 ARD를 통해 외부 협업을 강화하고, 고객 360의 깊은 맥락을 활용하여 자율 에이전트를 구축하고 최적화할 수 있게 합니다. ARD는 조직 간 신뢰와 발견 문제를 해결하며, 수천 개의 기능을 활용할 수 있도록 지원합니다.",
+      "metrics": [
+        {
+          "value": "+40%",
+          "label": "협업 효율성",
+          "trend": "pos"
+        },
+        {
+          "value": "N/A",
+          "label": "비용 절감",
+          "trend": "neu"
+        },
+        {
+          "value": "N/A",
+          "label": "처리량",
+          "trend": "neu"
+        },
+        {
+          "value": "N/A",
+          "label": "신뢰성 향상",
+          "trend": "pos"
+        }
+      ],
+      "tags": [
+        "AI",
+        "협업",
+        "Salesforce"
+      ],
+      "source": "Salesforce Blog, 2023",
+      "url": "https://www.salesforce.com/blog/open-discovery-agentic-enterprise/",
+      "added_date": "2026-06-26",
+      "verified": false
+    },
+    {
+      "id": "CLR-20260626-b70937",
+      "category": "2-4",
+      "company": "Claire's",
+      "short": "CLR",
+      "color_bg": "#FAEEDA",
+      "color_text": "#633806",
+      "kpi_value": "향상된 운영 효율성",
+      "kpi_label": "운영 판단력",
+      "title": "클레어스 물류센터 개소",
+      "description": "물류센터를 통해 운영 효율성을 높임.",
+      "body": "클레어스는 일리노이주 엘진에 248,000평방피트 규모의 물류센터를 개소하여 재고 가시성을 높이고 운영 계획을 개선했습니다. 이 시설은 불필요한 처리 과정을 줄이고, 재고 흐름을 간소화하여 매장 운영을 지원하는 데 중점을 두고 있습니다.",
+      "metrics": [
+        {
+          "value": "향상된 가시성",
+          "label": "재고 가시성",
+          "trend": "pos"
+        },
+        {
+          "value": "운영 속도 증가",
+          "label": "운영 속도",
+          "trend": "pos"
+        },
+        {
+          "value": "정확도 향상",
+          "label": "운영 정확도",
+          "trend": "pos"
+        },
+        {
+          "value": "900개 매장 지원",
+          "label": "매장 지원 수",
+          "trend": "pos"
+        }
+      ],
+      "tags": [
+        "물류",
+        "운영 효율성",
+        "재고 관리"
+      ],
+      "source": "Supply Chain Dive, 2026",
+      "url": "https://www.supplychaindive.com/news/claires-opens-illinois-distribution-center-to-boost-inventory-flow/823665/",
+      "added_date": "2026-06-26",
       "verified": false
     }
   ]
