@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-06-26T05:09:44.907774+00:00",
-    "total_cases": 70,
+    "last_updated": "2026-06-27T04:54:24.131948+00:00",
+    "total_cases": 71,
     "version": "1.2",
     "description": "LGE AX Strategy — Global AI Sales & Marketing Benchmark DB"
   },
@@ -3169,6 +3169,50 @@
       "source": "Supply Chain Dive, 2026",
       "url": "https://www.supplychaindive.com/news/claires-opens-illinois-distribution-center-to-boost-inventory-flow/823665/",
       "added_date": "2026-06-26",
+      "verified": false
+    },
+    {
+      "id": "DTC-20260627-872fd6",
+      "category": "1-3",
+      "company": "Duluth Trading Co.",
+      "short": "DTC",
+      "color_bg": "#FBEAF0",
+      "color_text": "#72243E",
+      "kpi_value": "-25%",
+      "kpi_label": "재고 감소",
+      "title": "재고 건강 개선 사례",
+      "description": "SKU 관리로 재고를 25% 줄임.",
+      "body": "Duluth Trading Co.는 SKU 관리를 통해 재고를 25% 줄이고, 고마진 제품에 집중하여 매출을 개선했다. 이를 통해 매장 내 재고 수준이 900bp 향상되었으며, 전체적인 재고 건강이 개선되었다.",
+      "metrics": [
+        {
+          "value": "-25%",
+          "label": "재고 감소",
+          "trend": "pos"
+        },
+        {
+          "value": "42%",
+          "label": "계절 재고 감소",
+          "trend": "pos"
+        },
+        {
+          "value": "900bp",
+          "label": "매장 재고 수준 향상",
+          "trend": "pos"
+        },
+        {
+          "value": "17%",
+          "label": "재고 감소율",
+          "trend": "pos"
+        }
+      ],
+      "tags": [
+        "재고관리",
+        "SKU",
+        "영업전략"
+      ],
+      "source": "Supply Chain Dive, 2026",
+      "url": "https://www.supplychaindive.com/news/duluth-trading-boosts-inventory-health-with-sku-cuts-enterprise-planning/823796/",
+      "added_date": "2026-06-27",
       "verified": false
     }
   ]
