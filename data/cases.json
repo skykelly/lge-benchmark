@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-06-27T04:54:24.131948+00:00",
-    "total_cases": 71,
+    "last_updated": "2026-06-30T05:04:39.646038+00:00",
+    "total_cases": 73,
     "version": "1.2",
     "description": "LGE AX Strategy — Global AI Sales & Marketing Benchmark DB"
   },
@@ -3213,6 +3213,94 @@
       "source": "Supply Chain Dive, 2026",
       "url": "https://www.supplychaindive.com/news/duluth-trading-boosts-inventory-health-with-sku-cuts-enterprise-planning/823796/",
       "added_date": "2026-06-27",
+      "verified": false
+    },
+    {
+      "id": "WMT-20260630-09bbb2",
+      "category": "1-1",
+      "company": "Walmart",
+      "short": "WMT",
+      "color_bg": "#EEEDFE",
+      "color_text": "#3C3489",
+      "kpi_value": "$1.2B",
+      "kpi_label": "인수 금액",
+      "title": "Walmart Vibe.co 인수",
+      "description": "Walmart가 Vibe.co를 인수하여 광고 생태계 확장.",
+      "body": "Walmart는 중소기업을 위한 CTV 광고 플랫폼 Vibe.co를 12억 달러에 인수했다. 이로 인해 광고주들이 Walmart의 광고 생태계에 더 쉽게 접근할 수 있게 되었으며, Walmart의 구매 데이터와 Vibe의 크로스 디바이스 아이덴티티 그래프를 결합하여 광고 효과를 측정할 수 있는 가능성이 높아졌다.",
+      "metrics": [
+        {
+          "value": "$1.2B",
+          "label": "인수 금액",
+          "trend": "pos"
+        },
+        {
+          "value": "10배",
+          "label": "광고 수익 차이",
+          "trend": "neg"
+        },
+        {
+          "value": "N/A",
+          "label": "광고주 수 증가",
+          "trend": "neu"
+        },
+        {
+          "value": "N/A",
+          "label": "ROI 개선",
+          "trend": "pos"
+        }
+      ],
+      "tags": [
+        "Walmart",
+        "Vibe.co",
+        "CTV 광고"
+      ],
+      "source": "Marketing Dive, 2026",
+      "url": "https://www.marketingdive.com/news/what-walmarts-vibeco-deal-means-for-ctv-retail-media-convergence/823941/",
+      "added_date": "2026-06-30",
+      "verified": false
+    },
+    {
+      "id": "MJM-20260630-9f713a",
+      "category": "2-4",
+      "company": "Majors Management",
+      "short": "MJM",
+      "color_bg": "#EEEDFE",
+      "color_text": "#3C3489",
+      "kpi_value": "N/A",
+      "kpi_label": "운영 효율성",
+      "title": "AI로 운영 효율성 강화",
+      "description": "AI 도입으로 운영 효율성을 높이는 사례",
+      "body": "Majors Management는 AI 기반의 의사결정 및 자동화를 통해 가격, 재고, 고객 경험 등을 개선하고자 ResultStack과 파트너십을 체결했습니다. 이로 인해 복잡한 운영 환경에서의 비효율성을 해결할 기회를 얻었습니다.",
+      "metrics": [
+        {
+          "value": "N/A",
+          "label": "비용 절감",
+          "trend": "neu"
+        },
+        {
+          "value": "N/A",
+          "label": "운영 효율성 향상",
+          "trend": "pos"
+        },
+        {
+          "value": "N/A",
+          "label": "고객 경험 개선",
+          "trend": "pos"
+        },
+        {
+          "value": "N/A",
+          "label": "기술적 속도 향상",
+          "trend": "pos"
+        }
+      ],
+      "tags": [
+        "AI",
+        "운영 효율성",
+        "소매"
+      ],
+      "source": "Supply Chain Dive, 2026",
+      "url": "https://www.supplychaindive.com/news/majors-management-taps-ai-tool-for-pricing-inventory-and-operations/823870/",
+      "added_date": "2026-06-30",
       "verified": false
     }
   ]
