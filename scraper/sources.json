@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.1",
     "description": "LGE AX Benchmark — Daily scraping sources",
-    "last_updated": "2026-05-06"
+    "last_updated": "2026-07-01T03:46:36+00:00"
   },
   "sources": [
     {
@@ -11,7 +11,12 @@
       "url": "https://www.salesforce.com/blog/category/artificial-intelligence/",
       "rss": "https://www.salesforce.com/blog/feed/",
       "type": "vendor",
-      "expected_tags": ["sales_agent", "CRM", "automation", "B2B"],
+      "expected_tags": [
+        "sales_agent",
+        "CRM",
+        "automation",
+        "B2B"
+      ],
       "priority": "high",
       "active": true
     },
@@ -21,7 +26,12 @@
       "url": "https://blogs.microsoft.com/blog/category/ai/",
       "rss": "https://blogs.microsoft.com/feed/",
       "type": "vendor",
-      "expected_tags": ["copilot", "sales_productivity", "B2B", "automation"],
+      "expected_tags": [
+        "copilot",
+        "sales_productivity",
+        "B2B",
+        "automation"
+      ],
       "priority": "high",
       "active": true
     },
@@ -31,7 +41,12 @@
       "url": "https://www.thinkwithgoogle.com/",
       "rss": null,
       "type": "research",
-      "expected_tags": ["media", "search", "ROAS", "marketing"],
+      "expected_tags": [
+        "media",
+        "search",
+        "ROAS",
+        "marketing"
+      ],
       "priority": "high",
       "active": true,
       "scrape_method": "html"
@@ -42,7 +57,12 @@
       "url": "https://www.marketingdive.com/topic/artificial-intelligence/",
       "rss": "https://www.marketingdive.com/feeds/news/",
       "type": "trade",
-      "expected_tags": ["marketing", "media", "automation", "personalization"],
+      "expected_tags": [
+        "marketing",
+        "media",
+        "automation",
+        "personalization"
+      ],
       "priority": "medium",
       "active": true
     },
@@ -52,7 +72,11 @@
       "url": "https://www.supplychaindive.com/topic/artificial-intelligence/",
       "rss": "https://www.supplychaindive.com/feeds/news/",
       "type": "trade",
-      "expected_tags": ["supply_chain", "demand_forecasting", "inventory"],
+      "expected_tags": [
+        "supply_chain",
+        "demand_forecasting",
+        "inventory"
+      ],
       "priority": "medium",
       "active": true
     },
@@ -62,7 +86,12 @@
       "url": "https://www.cognigy.com/blog",
       "rss": "https://www.cognigy.com/blog/rss.xml",
       "type": "vendor",
-      "expected_tags": ["CS_automation", "agent_copilot", "AHT", "chatbot"],
+      "expected_tags": [
+        "CS_automation",
+        "agent_copilot",
+        "AHT",
+        "chatbot"
+      ],
       "priority": "low",
       "active": true
     },
@@ -72,32 +101,132 @@
       "url": "https://www.klarna.com/international/press/",
       "rss": null,
       "type": "company",
-      "expected_tags": ["fintech", "chatbot", "marketing_ops"],
+      "expected_tags": [
+        "fintech",
+        "chatbot",
+        "marketing_ops"
+      ],
       "priority": "medium",
       "active": true,
       "scrape_method": "html"
+    },
+    {
+      "id": "salesforce",
+      "name": "Salesforce — Customer Stories",
+      "url": "https://www.salesforce.com/customer-success-stories/",
+      "base_url": "https://salesforce.com",
+      "section_url": "https://www.salesforce.com/customer-success-stories/",
+      "rss": "https://salesforce.com/blog/feed/",
+      "scrape_method": "rss",
+      "priority": "high",
+      "active": true,
+      "expected_tags": [
+        "물류",
+        "customer acquisition",
+        "demand forecasting"
+      ],
+      "added_by": "auto",
+      "added_date": "2026-07-01",
+      "validation_score": 76
     }
   ],
   "excluded_sources": {
     "domains": [
-      {"domain": "www.mckinsey.com",      "reason": "blocks bots — connection closed"},
-      {"domain": "www.bcg.com",           "reason": "403 Forbidden — blocks scrapers"},
-      {"domain": "hbr.org",              "reason": "RSS 404 — feed URL removed"},
-      {"domain": "www.marketingweek.com", "reason": "403 Forbidden — blocks scrapers"},
-      {"domain": "www.bain.com",          "reason": "404 — section URL no longer valid, no public RSS"},
-      {"domain": "www.gartner.com",       "reason": "403 Forbidden — blocks scrapers"}
+      {
+        "domain": "www.mckinsey.com",
+        "reason": "blocks bots — connection closed"
+      },
+      {
+        "domain": "www.bcg.com",
+        "reason": "403 Forbidden — blocks scrapers"
+      },
+      {
+        "domain": "hbr.org",
+        "reason": "RSS 404 — feed URL removed"
+      },
+      {
+        "domain": "www.marketingweek.com",
+        "reason": "403 Forbidden — blocks scrapers"
+      },
+      {
+        "domain": "www.bain.com",
+        "reason": "404 — section URL no longer valid, no public RSS"
+      },
+      {
+        "domain": "www.gartner.com",
+        "reason": "403 Forbidden — blocks scrapers"
+      }
     ]
   },
   "category_keywords": {
-    "1-1": ["new customer acquisition", "신규 고객", "foot traffic", "media mix", "targeting", "customer acquisition"],
-    "1-2": ["conversion rate", "전환율", "sales consultation", "recommendation", "promotion response"],
-    "1-3": ["upsell", "cross-sell", "average order value", "premium mix", "dynamic pricing"],
-    "1-4": ["churn", "retention", "LTV", "re-purchase", "subscription lock-in"],
-    "1-5": ["new revenue", "platform", "service revenue", "SaaS", "total solution"],
-    "2-1": ["marketing cost", "agency cost", "content production", "media efficiency", "promotion efficiency"],
-    "2-2": ["sales productivity", "sales operations", "proposal", "coverage", "TM optimization"],
-    "2-3": ["customer service", "chatbot", "self-service", "AHT", "predictive care"],
-    "2-4": ["demand forecasting", "inventory", "pricing optimization", "decision support"],
-    "2-5": ["VOC", "brand risk", "churn risk", "quality cost"]
+    "1-1": [
+      "new customer acquisition",
+      "신규 고객",
+      "foot traffic",
+      "media mix",
+      "targeting",
+      "customer acquisition"
+    ],
+    "1-2": [
+      "conversion rate",
+      "전환율",
+      "sales consultation",
+      "recommendation",
+      "promotion response"
+    ],
+    "1-3": [
+      "upsell",
+      "cross-sell",
+      "average order value",
+      "premium mix",
+      "dynamic pricing"
+    ],
+    "1-4": [
+      "churn",
+      "retention",
+      "LTV",
+      "re-purchase",
+      "subscription lock-in"
+    ],
+    "1-5": [
+      "new revenue",
+      "platform",
+      "service revenue",
+      "SaaS",
+      "total solution"
+    ],
+    "2-1": [
+      "marketing cost",
+      "agency cost",
+      "content production",
+      "media efficiency",
+      "promotion efficiency"
+    ],
+    "2-2": [
+      "sales productivity",
+      "sales operations",
+      "proposal",
+      "coverage",
+      "TM optimization"
+    ],
+    "2-3": [
+      "customer service",
+      "chatbot",
+      "self-service",
+      "AHT",
+      "predictive care"
+    ],
+    "2-4": [
+      "demand forecasting",
+      "inventory",
+      "pricing optimization",
+      "decision support"
+    ],
+    "2-5": [
+      "VOC",
+      "brand risk",
+      "churn risk",
+      "quality cost"
+    ]
   }
 }
