@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-06-30T05:04:39.646038+00:00",
-    "total_cases": 73,
+    "last_updated": "2026-07-01T05:22:01.210531+00:00",
+    "total_cases": 74,
     "version": "1.2",
     "description": "LGE AX Strategy — Global AI Sales & Marketing Benchmark DB"
   },
@@ -3301,6 +3301,50 @@
       "source": "Supply Chain Dive, 2026",
       "url": "https://www.supplychaindive.com/news/majors-management-taps-ai-tool-for-pricing-inventory-and-operations/823870/",
       "added_date": "2026-06-30",
+      "verified": false
+    },
+    {
+      "id": "SFC-20260701-022ac8",
+      "category": "2-3",
+      "company": "Salesforce",
+      "short": "SFC",
+      "color_bg": "#E1F5EE",
+      "color_text": "#085041",
+      "kpi_value": "-70%",
+      "kpi_label": "CS 처리비",
+      "title": "AI로 CS 비용 절감",
+      "description": "AI 에이전트로 고객 서비스 비용 절감",
+      "body": "Salesforce의 AI 에이전트는 고객의 주문 상태를 실시간으로 확인하고, 간단한 문의에 대해 신속하게 응답함으로써 고객 서비스 비용을 70% 절감할 수 있다. 이를 통해 고객의 불만을 최소화하고, 고객 만족도를 높이는 데 기여한다.",
+      "metrics": [
+        {
+          "value": "-70%",
+          "label": "CS 처리비 절감",
+          "trend": "neg"
+        },
+        {
+          "value": "89%",
+          "label": "긍정적 반응 비율",
+          "trend": "pos"
+        },
+        {
+          "value": "97%",
+          "label": "재구매 의향 비율",
+          "trend": "pos"
+        },
+        {
+          "value": "60초",
+          "label": "응답 시간",
+          "trend": "pos"
+        }
+      ],
+      "tags": [
+        "AI",
+        "고객 서비스",
+        "비용 절감"
+      ],
+      "source": "Salesforce Blog, 2023",
+      "url": "https://www.salesforce.com/blog/agentic-order-servicing/",
+      "added_date": "2026-07-01",
       "verified": false
     }
   ]
