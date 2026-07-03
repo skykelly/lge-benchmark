@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-07-01T05:22:01.210531+00:00",
-    "total_cases": 74,
+    "last_updated": "2026-07-03T04:42:17.274839+00:00",
+    "total_cases": 76,
     "version": "1.2",
     "description": "LGE AX Strategy — Global AI Sales & Marketing Benchmark DB"
   },
@@ -3345,6 +3345,94 @@
       "source": "Salesforce Blog, 2023",
       "url": "https://www.salesforce.com/blog/agentic-order-servicing/",
       "added_date": "2026-07-01",
+      "verified": false
+    },
+    {
+      "id": "RDT-20260703-a3708b",
+      "category": "1-1",
+      "company": "Reddit",
+      "short": "RDT",
+      "color_bg": "#E1F5EE",
+      "color_text": "#085041",
+      "kpi_value": "N/A",
+      "kpi_label": "신규 고객 유입",
+      "title": "레딧, 사람의 힘 강조 캠페인",
+      "description": "레딧이 사람 중심의 통찰력을 강조하는 캠페인 진행",
+      "body": "레딧은 '사람이 최고다' 캠페인을 통해 AI 콘텐츠와 차별화된 인간 중심의 대화를 강조하고 있습니다. 이 캠페인은 뉴욕과 시카고에서 시작되며, TV, 스트리밍 및 소셜 광고를 포함하여 신규 고객 유입을 목표로 하고 있습니다.",
+      "metrics": [
+        {
+          "value": "N/A",
+          "label": "신규 고객 수",
+          "trend": "neu"
+        },
+        {
+          "value": "N/A",
+          "label": "광고 도달률",
+          "trend": "neu"
+        },
+        {
+          "value": "N/A",
+          "label": "커뮤니티 참여도",
+          "trend": "pos"
+        },
+        {
+          "value": "N/A",
+          "label": "브랜드 인지도",
+          "trend": "pos"
+        }
+      ],
+      "tags": [
+        "마케팅",
+        "AI",
+        "커뮤니티"
+      ],
+      "source": "Marketing Dive, 2026",
+      "url": "https://www.marketingdive.com/news/sociable-reddit-launches-people-are-the-best-campaign/824366/",
+      "added_date": "2026-07-03",
+      "verified": false
+    },
+    {
+      "id": "MHH-20260703-88573c",
+      "category": "1-1",
+      "company": "Mike's Hot Honey",
+      "short": "MHH",
+      "color_bg": "#E1F5EE",
+      "color_text": "#085041",
+      "kpi_value": "N/A",
+      "kpi_label": "신규 고객 유입",
+      "title": "축구 캠페인으로 고객 유입",
+      "description": "피자 박스에 샘플을 넣어 고객을 유입하는 캠페인",
+      "body": "Mike's Hot Honey는 시카고 지역의 피자 박스에 샘플을 넣어 고객을 유입하고, 축구 클럽과의 파트너십을 통해 브랜드 인지도를 높이고 있다. 이 캠페인은 다양한 채널에서 진행되며, AI 기술을 활용해 문화적 순간에 맞춰 광고를 배치하고 있다.",
+      "metrics": [
+        {
+          "value": "N/A",
+          "label": "신규 고객 수",
+          "trend": "neu"
+        },
+        {
+          "value": "N/A",
+          "label": "캠페인 도달률",
+          "trend": "neu"
+        },
+        {
+          "value": "N/A",
+          "label": "소셜 미디어 반응",
+          "trend": "neu"
+        },
+        {
+          "value": "N/A",
+          "label": "브랜드 인지도",
+          "trend": "neu"
+        }
+      ],
+      "tags": [
+        "AI",
+        "마케팅",
+        "캠페인"
+      ],
+      "source": "Marketing Dive, 2026",
+      "url": "https://www.marketingdive.com/news/mikes-hot-honey-spurs-experimentation-with-soccer-infused-campaign/824276/",
+      "added_date": "2026-07-03",
       "verified": false
     }
   ]
