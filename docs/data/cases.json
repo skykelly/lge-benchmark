@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-07-10T04:52:41.041336+00:00",
-    "total_cases": 77,
+    "last_updated": "2026-07-17T04:06:40.208085+00:00",
+    "total_cases": 78,
     "version": "1.2",
     "description": "LGE AX Strategy — Global AI Sales & Marketing Benchmark DB"
   },
@@ -3477,6 +3477,50 @@
       "source": "Supply Chain Dive, 2026",
       "url": "https://www.supplychaindive.com/news/scotts-miracle-gro-widens-tech-partnership-for-supply-chain-ai/824764/",
       "added_date": "2026-07-10",
+      "verified": false
+    },
+    {
+      "id": "COG-20260717-434ea1",
+      "category": "2-4",
+      "company": "Cognigy",
+      "short": "COG",
+      "color_bg": "#FEF3E2",
+      "color_text": "#6B3A00",
+      "kpi_value": "+40%",
+      "kpi_label": "효율성",
+      "title": "AI Copilot로 효율성 향상",
+      "description": "AI Copilot이 고객 서비스 효율성을 높임.",
+      "body": "Cognigy의 AI Copilot은 고객 서비스에서 인간 상담원과 실시간으로 협력하여 고객의 질문을 신속하고 정확하게 해결할 수 있도록 지원합니다. 이를 통해 상담원은 필요한 정보를 즉시 접근할 수 있어 고객 응대의 효율성이 40% 향상되었습니다.",
+      "metrics": [
+        {
+          "value": "+40%",
+          "label": "상담원 효율성",
+          "trend": "pos"
+        },
+        {
+          "value": "2배",
+          "label": "응답 속도",
+          "trend": "pos"
+        },
+        {
+          "value": "30%",
+          "label": "고객 만족도",
+          "trend": "pos"
+        },
+        {
+          "value": "-50%",
+          "label": "대기 시간",
+          "trend": "neg"
+        }
+      ],
+      "tags": [
+        "AI",
+        "고객 서비스",
+        "효율성"
+      ],
+      "source": "Cognigy, 2026",
+      "url": "https://www.cognigy.com/blog/ai-copilot-explained",
+      "added_date": "2026-07-17",
       "verified": false
     }
   ]
