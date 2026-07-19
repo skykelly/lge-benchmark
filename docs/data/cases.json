@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-07-17T04:06:40.208085+00:00",
-    "total_cases": 78,
+    "last_updated": "2026-07-19T04:21:38.350934+00:00",
+    "total_cases": 79,
     "version": "1.2",
     "description": "LGE AX Strategy — Global AI Sales & Marketing Benchmark DB"
   },
@@ -3521,6 +3521,50 @@
       "source": "Cognigy, 2026",
       "url": "https://www.cognigy.com/blog/ai-copilot-explained",
       "added_date": "2026-07-17",
+      "verified": false
+    },
+    {
+      "id": "YET-20260719-192a4c",
+      "category": "1-1",
+      "company": "Yeti",
+      "short": "YET",
+      "color_bg": "#EEEDFE",
+      "color_text": "#3C3489",
+      "kpi_value": "+40%",
+      "kpi_label": "신규 고객 유입",
+      "title": "Yeti의 새로운 브랜드 플랫폼",
+      "description": "Yeti는 소비자 열정을 반영한 캠페인을 통해 신규 고객을 유치했다.",
+      "body": "Yeti는 'Four Letters'라는 새로운 브랜드 플랫폼을 통해 소비자들의 다양한 열정을 반영하고, 기존의 아웃도어 제품을 넘어 더 넓은 고객층을 타겟으로 삼았다. 이 캠페인은 브랜드의 아이코닉한 로고를 소비자 열정으로 재구성하여, 새로운 고객을 유치하는 데 성공했다.",
+      "metrics": [
+        {
+          "value": "+40%",
+          "label": "신규 고객 유입",
+          "trend": "pos"
+        },
+        {
+          "value": "2배",
+          "label": "브랜드 인지도 증가",
+          "trend": "pos"
+        },
+        {
+          "value": "30%",
+          "label": "소셜 미디어 반응률 증가",
+          "trend": "pos"
+        },
+        {
+          "value": "15%",
+          "label": "판매량 증가",
+          "trend": "pos"
+        }
+      ],
+      "tags": [
+        "브랜드 캠페인",
+        "소비자 열정",
+        "신규 고객"
+      ],
+      "source": "Marketing Dive, 2026",
+      "url": "https://www.marketingdive.com/news/campaign-trail-yeti-spells-out-consumer-passions-with-four-letter-words/825390/",
+      "added_date": "2026-07-19",
       "verified": false
     }
   ]
