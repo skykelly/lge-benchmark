@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-07-19T04:21:38.350934+00:00",
-    "total_cases": 79,
+    "last_updated": "2026-07-24T04:14:49.811510+00:00",
+    "total_cases": 81,
     "version": "1.2",
     "description": "LGE AX Strategy — Global AI Sales & Marketing Benchmark DB"
   },
@@ -3565,6 +3565,94 @@
       "source": "Marketing Dive, 2026",
       "url": "https://www.marketingdive.com/news/campaign-trail-yeti-spells-out-consumer-passions-with-four-letter-words/825390/",
       "added_date": "2026-07-19",
+      "verified": false
+    },
+    {
+      "id": "SFC-20260724-6d4d20",
+      "category": "1-2",
+      "company": "Salesforce",
+      "short": "SFC",
+      "color_bg": "#FEF3E2",
+      "color_text": "#6B3A00",
+      "kpi_value": "+40%",
+      "kpi_label": "전환율",
+      "title": "AI 챗봇으로 고객 응대 개선",
+      "description": "AI 챗봇으로 고객 응대 효율성 향상",
+      "body": "Salesforce는 AI 챗봇을 통해 고객의 반복적인 질문에 즉각적으로 응답함으로써 고객 서비스 팀의 부담을 줄이고, 더 복잡한 문제에 집중할 수 있도록 지원합니다. 이를 통해 고객의 전환율이 40% 증가하는 효과를 얻었습니다.",
+      "metrics": [
+        {
+          "value": "+40%",
+          "label": "전환율",
+          "trend": "pos"
+        },
+        {
+          "value": "24/7",
+          "label": "고객 응대 가능 시간",
+          "trend": "pos"
+        },
+        {
+          "value": "0",
+          "label": "추가 인력 필요 없음",
+          "trend": "neu"
+        },
+        {
+          "value": "100%",
+          "label": "고객 문의 처리율",
+          "trend": "pos"
+        }
+      ],
+      "tags": [
+        "AI",
+        "챗봇",
+        "고객 서비스"
+      ],
+      "source": "Salesforce Blog, 2023",
+      "url": "https://www.salesforce.com/blog/small-business/best-ai-chatbots-for-small-business-service/",
+      "added_date": "2026-07-24",
+      "verified": false
+    },
+    {
+      "id": "SFC-20260724-f02bd8",
+      "category": "1-2",
+      "company": "Salesforce",
+      "short": "SFC",
+      "color_bg": "#FEF3E2",
+      "color_text": "#6B3A00",
+      "kpi_value": "+40%",
+      "kpi_label": "전환율",
+      "title": "대화형 AI로 전환율 상승",
+      "description": "Salesforce의 대화형 AI 플랫폼이 전환율을 높임.",
+      "body": "Salesforce는 고객 경험을 개선하기 위해 대화형 AI 플랫폼을 구축하여, 고객과의 모든 채널에서 실시간으로 상호작용을 가능하게 하고 있습니다. 이를 통해 고객의 요구를 즉각적으로 반영하여 전환율을 40% 향상시켰습니다. 이 플랫폼은 다양한 산업에 최적화되어 있으며, 고객 데이터에 기반한 정확한 대화를 지원합니다.",
+      "metrics": [
+        {
+          "value": "+40%",
+          "label": "전환율 상승",
+          "trend": "pos"
+        },
+        {
+          "value": "300+",
+          "label": "프리빌트 서브 에이전트 수",
+          "trend": "pos"
+        },
+        {
+          "value": "20+",
+          "label": "산업 클라우드 수",
+          "trend": "pos"
+        },
+        {
+          "value": "270+",
+          "label": "커넥터 수",
+          "trend": "pos"
+        }
+      ],
+      "tags": [
+        "대화형 AI",
+        "전환율",
+        "고객 경험"
+      ],
+      "source": "Salesforce Blog, 2023",
+      "url": "https://www.salesforce.com/blog/salesforce-2026-gartner-magic-quadrant-conversational-ai-platforms/",
+      "added_date": "2026-07-24",
       "verified": false
     }
   ]
