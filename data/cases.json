@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-07-24T04:14:49.811510+00:00",
-    "total_cases": 81,
+    "last_updated": "2026-07-25T04:11:39.690902+00:00",
+    "total_cases": 82,
     "version": "1.2",
     "description": "LGE AX Strategy — Global AI Sales & Marketing Benchmark DB"
   },
@@ -3653,6 +3653,50 @@
       "source": "Salesforce Blog, 2023",
       "url": "https://www.salesforce.com/blog/salesforce-2026-gartner-magic-quadrant-conversational-ai-platforms/",
       "added_date": "2026-07-24",
+      "verified": false
+    },
+    {
+      "id": "CAG-20260725-0ad6e1",
+      "category": "2-4",
+      "company": "Conagra Brands",
+      "short": "CAG",
+      "color_bg": "#E1F5EE",
+      "color_text": "#085041",
+      "kpi_value": "4%~5%",
+      "kpi_label": "자본 지출 비율",
+      "title": "공급망 회복력 강화",
+      "description": "AI를 활용한 공급망 효율화 계획",
+      "body": "Conagra Brands는 AI 기술을 통해 제조 시설 내 작업을 간소화하고, 공급망 회복력을 강화하기 위한 프로젝트인 'Project Catalyst'를 추진하고 있습니다. 이 프로젝트는 핵심 비즈니스 프로세스를 재설계하고 자동화하여 운영 효율성을 높이는 것을 목표로 하고 있습니다.",
+      "metrics": [
+        {
+          "value": "4%~5%",
+          "label": "자본 지출 비율",
+          "trend": "pos"
+        },
+        {
+          "value": "$125M",
+          "label": "투자 금액",
+          "trend": "pos"
+        },
+        {
+          "value": "5,500",
+          "label": "SKU 수",
+          "trend": "neu"
+        },
+        {
+          "value": "450M",
+          "label": "연간 자본 지출",
+          "trend": "pos"
+        }
+      ],
+      "tags": [
+        "AI",
+        "공급망",
+        "효율화"
+      ],
+      "source": "Supply Chain Dive, 2026",
+      "url": "https://www.supplychaindive.com/news/conagra-to-invest-125m-in-supply-chain-resilience/825796/",
+      "added_date": "2026-07-25",
       "verified": false
     }
   ]
