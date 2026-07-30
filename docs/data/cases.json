@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-07-25T04:11:39.690902+00:00",
-    "total_cases": 82,
+    "last_updated": "2026-07-30T03:57:16.394528+00:00",
+    "total_cases": 83,
     "version": "1.2",
     "description": "LGE AX Strategy — Global AI Sales & Marketing Benchmark DB"
   },
@@ -3697,6 +3697,50 @@
       "source": "Supply Chain Dive, 2026",
       "url": "https://www.supplychaindive.com/news/conagra-to-invest-125m-in-supply-chain-resilience/825796/",
       "added_date": "2026-07-25",
+      "verified": false
+    },
+    {
+      "id": "WMT-20260730-eb7187",
+      "category": "2-4",
+      "company": "Walmart",
+      "short": "WMT",
+      "color_bg": "#E6F1FB",
+      "color_text": "#0C447C",
+      "kpi_value": "N/A",
+      "kpi_label": "운영 판단력",
+      "title": "Walmart의 AI 공급망 최적화",
+      "description": "Walmart는 AI로 공급망을 최적화합니다.",
+      "body": "Walmart는 AI와 머신러닝을 활용해 날씨에 따른 공급망 중단을 최소화하고 있습니다. 역사적 날씨 패턴과 실시간 데이터를 분석하여 재고 위치를 조정하고 배송 시간을 최적화합니다. 이를 통해 고객의 수요를 예측하고, 날씨에 따른 재고 배치를 효율적으로 관리합니다.",
+      "metrics": [
+        {
+          "value": "N/A",
+          "label": "전환율",
+          "trend": "neu"
+        },
+        {
+          "value": "N/A",
+          "label": "비용 절감",
+          "trend": "neu"
+        },
+        {
+          "value": "N/A",
+          "label": "처리량",
+          "trend": "neu"
+        },
+        {
+          "value": "N/A",
+          "label": "고객 만족도",
+          "trend": "neu"
+        }
+      ],
+      "tags": [
+        "AI",
+        "공급망",
+        "Walmart"
+      ],
+      "source": "Supply Chain Dive, 2026",
+      "url": "https://www.supplychaindive.com/news/how-walmart-uses-ai-to-limit-weather-disruptions-in-its-supply-chain/826391/",
+      "added_date": "2026-07-30",
       "verified": false
     }
   ]
